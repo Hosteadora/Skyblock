@@ -1,55 +1,372 @@
-[10:55:31] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:55:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:55:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:55:31] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:55:31] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:55:31] [main/INFO]: Loaded 0 recipes
-[10:55:31] [main/INFO]: Loaded 0 advancements
-[10:55:31] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[10:55:31] [Server thread/INFO]: Loading properties
-[10:55:31] [Server thread/INFO]: Default game type: SURVIVAL
-[10:55:31] [Server thread/INFO]: Generating keypair
-[10:55:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:55:31] [Server thread/INFO]: Using default channel type
-[10:55:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:55:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:55:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:55:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:55:32] [Server thread/INFO]: Preparing level "SkyBlock2.1"
-[10:55:32] [Server thread/INFO]: Reloading ResourceManager: Default
-[10:55:32] [Server thread/INFO]: Loaded 524 recipes
-[10:55:33] [Server thread/INFO]: Loaded 571 advancements
-[10:55:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 4%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 8%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 12%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 16%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 20%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 24%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 28%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 32%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 36%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 40%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 44%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 48%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 52%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 56%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 60%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 64%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 68%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 72%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 76%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 80%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 84%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 88%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 92%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 96%
-[10:55:33] [Server thread/INFO]: Preparing spawn area: 100%
-[10:55:33] [Server thread/INFO]: Time elapsed: 293 ms
-[10:55:33] [Server thread/INFO]: Done (1.336s)! For help, type "help"
-[10:59:41] [Server thread/INFO]: vijote[/192.168.0.112:50150] logged in with entity id 34 at (5.9775160257368185, 61.0, 0.30000001192092896)
-[10:59:41] [Server thread/INFO]: vijote joined the game
-[11:12:42] [Server thread/INFO]: vijote has made the advancement [A Seedy Place]
-[11:34:26] [Server thread/INFO]: vijote was shot by Skeleton
-[11:37:08] [Server thread/INFO]: vijote lost connection: Disconnected
-[11:37:08] [Server thread/INFO]: vijote left the game
+[12:28:10] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:28:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:28:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:28:10] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:28:10] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:28:10] [main/INFO]: Loaded 0 recipes
+[12:28:10] [main/INFO]: Loaded 0 advancements
+[12:28:10] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[12:28:10] [Server thread/INFO]: Loading properties
+[12:28:10] [Server thread/INFO]: Default game type: SURVIVAL
+[12:28:10] [Server thread/INFO]: Generating keypair
+[12:28:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:28:10] [Server thread/INFO]: Using default channel type
+[12:28:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:28:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:28:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:28:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:28:11] [Server thread/INFO]: Preparing level "SkyBlock2.1"
+[12:28:11] [Server thread/INFO]: Reloading ResourceManager: Default
+[12:28:12] [Server thread/INFO]: Loaded 524 recipes
+[12:28:13] [Server thread/INFO]: Loaded 571 advancements
+[12:28:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 4%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 8%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 12%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 16%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 20%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 24%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 28%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 32%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 36%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 40%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 44%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 48%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 52%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 56%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 60%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 64%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 68%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 72%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 76%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 80%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 84%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 88%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 92%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 96%
+[12:28:13] [Server thread/INFO]: Preparing spawn area: 100%
+[12:28:13] [Server thread/INFO]: Time elapsed: 355 ms
+[12:28:13] [Server thread/INFO]: Done (2.402s)! For help, type "help"
+[12:38:52] [Server thread/INFO]: cbajas[/25.12.253.149:49790] logged in with entity id 21 at (3.4793344788775746, 60.0, 1.619931010640374)
+[12:38:52] [Server thread/INFO]: cbajas joined the game
+[12:39:03] [Server thread/INFO]: <cbajas> wow
+[12:39:25] [Server thread/INFO]: vijote[/192.168.0.112:50957] logged in with entity id 345 at (-2.5, 60.0, 1.5)
+[12:39:25] [Server thread/INFO]: vijote joined the game
+[12:39:31] [Server thread/INFO]: <vijote> jojola amiguitos de yutube
+[12:39:44] [Server thread/INFO]: <cbajas> holacarnal
+[12:39:48] [Server thread/INFO]: <cbajas> sale discordia
+[12:39:52] [Server thread/INFO]: <cbajas> o te pega tu progenitora
+[12:40:13] [Server thread/INFO]: <vijote> banca
+[12:40:18] [Server thread/INFO]: <vijote> que mi vieja me esta rompiendo
+[12:40:22] [Server thread/INFO]: <vijote> en un rato entro
+[12:40:28] [Server thread/INFO]: MAURIJAJAJA[/25.11.115.103:58593] logged in with entity id 727 at (-8.741553896503774, 60.0, 1.1250535913366542)
+[12:40:28] [Server thread/INFO]: MAURIJAJAJA joined the game
+[12:40:40] [Server thread/INFO]: vijote lost connection: Disconnected
+[12:40:40] [Server thread/INFO]: vijote left the game
+[12:48:51] [Server thread/WARN]: cbajas moved too quickly! -0.7118188633229618,-11.690556376445898,-1.1735471436009561
+[12:48:51] [Server thread/INFO]: cbajas fell from a high place
+[12:51:00] [Server thread/WARN]: cbajas moved too quickly! 0.052857680459214296,-16.29638162166411,-0.08309499655543107
+[12:51:03] [Server thread/WARN]: cbajas moved too quickly! 0.0,-21.005436483373472,0.0
+[12:51:05] [Server thread/INFO]: cbajas fell out of the world
+[12:57:16] [Server thread/INFO]: cbajas has made the advancement [A Seedy Place]
+[13:03:15] [Server thread/INFO]: cbajas has made the advancement [Sweet Dreams]
+[13:03:18] [Server thread/INFO]: <cbajas> a dormirla
+[13:03:35] [Server thread/INFO]: <MAURIJAJAJA> estoy cocinando xd
+[13:03:43] [Server thread/INFO]: <cbajas> xd
+[13:03:51] [Server thread/INFO]: <cbajas> q estas haciendo
+[13:03:52] [Server thread/INFO]: <cbajas> de rico
+[13:06:28] [Server thread/WARN]: cbajas moved too quickly! 0.0,-11.941643412869572,0.0
+[13:06:30] [Server thread/WARN]: cbajas moved too quickly! 0.0,-13.136311352726565,0.0
+[13:06:31] [Server thread/INFO]: cbajas fell out of the world
+[13:06:31] [Server thread/WARN]: cbajas moved too quickly! 0.0,-20.449471807640876,0.0
+[13:06:57] [Server thread/INFO]: cbajas lost connection: Disconnected
+[13:06:57] [Server thread/INFO]: cbajas left the game
+[13:36:06] [Server thread/INFO]: PepeRyddle[/25.2.27.15:59597] logged in with entity id 22926 at (-1.0922296432412308, 42.0, 30.328991177963722)
+[13:36:06] [Server thread/INFO]: PepeRyddle joined the game
+[13:44:50] [Server thread/INFO]: PepeRyddle was shot by Skeleton
+[13:45:05] [Server thread/INFO]: Alfajorcito[/25.73.242.60:56450] logged in with entity id 26369 at (-0.691967088062441, 60.0, 5.699999988079071)
+[13:45:05] [Server thread/INFO]: Alfajorcito joined the game
+[13:45:11] [Server thread/INFO]: <Alfajorcito> lol
+[13:45:15] [Server thread/INFO]: <Alfajorcito> no entendia nada
+[13:45:20] [Server thread/INFO]: <Alfajorcito> y era pq tenia el fov al minimo juasjuas
+[13:45:29] [Server thread/INFO]: <MAURIJAJAJA> xd
+[13:45:31] [Server thread/INFO]: <Alfajorcito> now this is quality content
+[13:45:35] [Server thread/INFO]: <Alfajorcito> endeaaa
+[13:45:37] [Server thread/INFO]: <Alfajorcito> cuantas arañas mataron
+[13:45:42] [Server thread/INFO]: <Alfajorcito> y como xuxa consiguieron un pigman
+[13:45:45] [Server thread/INFO]: <MAURIJAJAJA> muchisimas
+[13:45:46] [Server thread/INFO]: <Alfajorcito> pirala
+[13:45:53] [Server thread/INFO]: <MAURIJAJAJA> con el asesino automatico
+[13:45:58] [Server thread/INFO]: <Alfajorcito> q
+[13:46:02] [Server thread/INFO]: <MAURIJAJAJA> aka "caida libre"
+[13:46:05] [Server thread/INFO]: <Alfajorcito> pq esta escalera esta asi
+[13:46:14] [Server thread/INFO]: <MAURIJAJAJA> la hizo martin xd
+[13:46:20] [Server thread/INFO]: <Alfajorcito> y pq asi xd
+[13:46:24] [Server thread/INFO]: <PepeRyddle> no aparecen bichos
+[13:48:39] [Server thread/INFO]: Alfajorcito has made the advancement [Take Aim]
+[13:48:42] [Server thread/INFO]: <Alfajorcito> x'D
+[13:54:19] [Server thread/INFO]: Alfajorcito has made the advancement [Fishy Business]
+[13:55:35] [Server thread/INFO]: PepeRyddle fell from a high place
+[13:55:38] [Server thread/INFO]: <Alfajorcito> pri
+[13:55:56] [Server thread/INFO]: Alfajorcito fell out of the world
+[13:56:12] [Server thread/INFO]: PepeRyddle fell out of the world
+[13:56:54] [Server thread/INFO]: PepeRyddle was blown up by Creeper
+[13:57:42] [Server thread/INFO]: PepeRyddle fell out of the world
+[13:58:01] [Server thread/WARN]: PepeRyddle moved too quickly! -0.8926022547365264,-10.972766999801898,-0.774882026654268
+[13:58:20] [Server thread/INFO]: PepeRyddle was blown up by Creeper
+[13:58:59] [Server thread/INFO]: PepeRyddle fell from a high place
+[14:02:05] [Server thread/INFO]: Alfajorcito has made the advancement [Sweet Dreams]
+[14:02:08] [Server thread/INFO]: <Alfajorcito> preciated
+[14:02:49] [Server thread/INFO]: MAURIJAJAJA was shot by Skeleton
+[14:03:59] [Server thread/INFO]: PepeRyddle has made the advancement [We Need to Go Deeper]
+[14:06:10] [Server thread/INFO]: [Server] tu mama en tanga
+[14:06:16] [Server thread/INFO]: <Alfajorcito> filho da ibrahim
+[14:06:40] [Server thread/INFO]: MAURIJAJAJA has made the advancement [Fishy Business]
+[14:14:09] [Server thread/INFO]: PepeRyddle has made the advancement [A Seedy Place]
+[14:24:18] [Server thread/INFO]: <PepeRyddle> porque estas disparando ahi?
+[14:24:21] [Server thread/INFO]: <Alfajorcito> pq si le peg
+[14:24:22] [Server thread/INFO]: <Alfajorcito> pego
+[14:24:26] [Server thread/INFO]: <Alfajorcito> dan el drop de combate
+[14:24:30] [Server thread/INFO]: <Alfajorcito> q no es el mismo de muerte natural
+[14:24:36] [Server thread/INFO]: <PepeRyddle> seguro?
+[14:24:40] [Server thread/INFO]: <Alfajorcito> bastante
+[14:24:43] [Server thread/INFO]: <PepeRyddle> ok
+[14:24:52] [Server thread/INFO]: <Alfajorcito> pq nunca dieron ni papa ni sanahoria
+[14:24:54] [Server thread/INFO]: <Alfajorcito> ni hierro
+[14:24:58] [Server thread/INFO]: <Alfajorcito> ni sus armaduras encantadas
+[14:25:27] [Server thread/INFO]: <Alfajorcito> lastima q no veo un pingo y la mayoria se me escapa
+[14:30:54] [Server thread/INFO]: MAURIJAJAJA lost connection: Timed out
+[14:30:54] [Server thread/INFO]: MAURIJAJAJA left the game
+[14:31:41] [Server thread/INFO]: MAURIJAJAJA[/25.11.115.103:59050] logged in with entity id 41901 at (-16.66902221641091, 67.0, 14.224828024799267)
+[14:31:41] [Server thread/INFO]: MAURIJAJAJA joined the game
+[14:33:36] [Server thread/WARN]: PepeRyddle moved too quickly! -0.44317362592947385,7.0,-7.21204129746247
+[14:36:52] [Server thread/INFO]: <PepeRyddle> zZz
+[14:39:48] [Server thread/INFO]: Alfajorcito was shot by Skeleton
+[14:41:58] [Server thread/INFO]: Alfajorcito was shot by Skeleton
+[14:46:32] [Server thread/WARN]: Alfajorcito moved too quickly! -0.43172941082128435,-11.194885754619968,-0.753140979231814
+[14:46:37] [Server thread/INFO]: Alfajorcito fell out of the world
+[14:51:38] [Server thread/WARN]: Alfajorcito moved too quickly! 0.0,-14.321690065263294,0.006887778520721977
+[14:51:39] [Server thread/WARN]: Alfajorcito moved too quickly! 0.0,-11.065764912039814,0.0
+[14:51:43] [Server thread/WARN]: Alfajorcito moved too quickly! 0.0,-22.348256679151888,0.0
+[14:51:43] [Server thread/INFO]: Alfajorcito fell out of the world
+[14:54:23] [Server thread/INFO]: PepeRyddle has made the advancement [Take Aim]
+[14:58:23] [Server thread/INFO]: PepeRyddle was shot by Skeleton
+[15:02:44] [Server thread/INFO]: Alfajorcito was pricked to death
+[15:06:25] [Server thread/INFO]: Alfajorcito was shot by Skeleton
+[15:07:02] [Server thread/INFO]: Alfajorcito fell out of the world
+[15:07:29] [Server thread/INFO]: Alfajorcito fell out of the world
+[15:09:09] [Server thread/INFO]: PepeRyddle lost connection: Disconnected
+[15:09:09] [Server thread/INFO]: PepeRyddle left the game
+[15:10:53] [Server thread/WARN]: Alfajorcito moved too quickly! 1.2208869834939589,-17.969150755913297,-0.006762772682122886
+[15:10:56] [Server thread/INFO]: Alfajorcito fell out of the world
+[15:10:56] [Server thread/WARN]: Alfajorcito moved too quickly! 0.5630702992927228,-21.99651047335621,-0.3329580364961693
+[15:20:47] [Server thread/INFO]: MAURIJAJAJA was shot by Skeleton
+[15:30:13] [Server thread/INFO]: Alfajorcito was fireballed by Ghast
+[15:31:15] [Server thread/WARN]: Alfajorcito moved too quickly! -0.056265300558659526,-11.42661135229232,0.07246527307089012
+[15:31:16] [Server thread/WARN]: Alfajorcito moved too quickly! 0.0,-11.207870780463594,0.0
+[15:31:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2357ms or 47 ticks behind
+[15:31:17] [Server thread/WARN]: Alfajorcito moved too quickly! 0.0,-10.49079610902799,0.0
+[15:31:19] [Server thread/WARN]: Alfajorcito moved too quickly! 0.0,-11.026982712340192,0.0
+[15:31:22] [Server thread/INFO]: Alfajorcito fell out of the world
+[15:32:37] [Server thread/INFO]: MAURIJAJAJA was slain by Zombie Pigman
+[15:34:18] [Server thread/INFO]: Alfajorcito was slain by Zombie Pigman
+[15:42:20] [Server thread/INFO]: PepeRyddle[/25.2.27.15:52235] logged in with entity id 74687 at (-9.182282914700714, 60.0, 1.4291532144754253)
+[15:42:20] [Server thread/INFO]: PepeRyddle joined the game
+[15:45:35] [Server thread/WARN]: Wrong location! (-1, -1) should be (0, -1), anh['Zombie Pigman'/76486, l='SkyBlock2.1', x=-0.01, y=63.35, z=-2.92]
+[15:45:35] [Server thread/WARN]: Tried to add entity minecraft:zombie_pigman but it was marked as removed already
+[15:54:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[15:54:08] [Server thread/INFO]: <Alfajorcito> che horacio
+[15:54:11] [Server thread/INFO]: <Alfajorcito> los emperraste? xd
+[15:54:14] [Server thread/INFO]: <PepeRyddle> si
+[15:54:17] [Server thread/INFO]: Unknown command
+[15:54:17] [Server thread/INFO]: <--[HERE]
+[15:54:17] [Server thread/INFO]: <Alfajorcito> pq
+[15:54:21] [Server thread/INFO]: <Alfajorcito> si estoy encerrado aca :(
+[15:54:25] [Server thread/INFO]: <Alfajorcito> como voy a salir dsps
+[15:54:30] [Server thread/INFO]: cbajas[/25.12.253.149:49676] logged in with entity id 81221 at (0.1597554829576795, 60.0, 3.1845056961270486)
+[15:54:30] [Server thread/INFO]: cbajas joined the game
+[15:54:50] [Server thread/INFO]: <PepeRyddle> ya murieron
+[15:54:54] [Server thread/INFO]: PepeRyddle was slain by Zombie Pigman
+[15:54:55] [Server thread/INFO]: <Alfajorcito> enea
+[15:54:56] [Server thread/INFO]: <Alfajorcito> endea
+[15:54:58] [Server thread/INFO]: <Alfajorcito> vos decis
+[15:54:59] [Server thread/INFO]: <Alfajorcito> mogoliqo
+[15:55:03] [Server thread/INFO]: <PepeRyddle> XDD
+[15:55:07] [Server thread/INFO]: [Server] tu mama
+[15:55:09] [Server thread/INFO]: <Alfajorcito> x'B
+[15:55:10] [Server thread/INFO]: <Alfajorcito> EH
+[15:55:12] [Server thread/INFO]: <Alfajorcito> filho da puta
+[15:55:18] [Server thread/INFO]: <cbajas> che
+[15:55:23] [Server thread/INFO]: <cbajas> no te conozco
+[15:55:23] [Server thread/INFO]: <Alfajorcito> si? ;3
+[15:55:26] [Server thread/INFO]: <Alfajorcito> ahhaha
+[15:55:31] [Server thread/INFO]: <Alfajorcito> no mmn q bobo :3
+[15:55:59] [Server thread/INFO]: <PepeRyddle> dale que ya no estan enperra2
+[15:56:05] [Server thread/INFO]: <Alfajorcito> no importa
+[15:56:07] [Server thread/INFO]: <Alfajorcito> tengoq ue esperar
+[15:56:12] [Server thread/INFO]: <Alfajorcito> a que el pollo de los huevos xd
+[15:56:17] [Server thread/INFO]: <Alfajorcito> y llevarmelo
+[15:56:19] [Server thread/INFO]: <PepeRyddle> q verga
+[15:56:25] [Server thread/INFO]: <PepeRyddle> hay un pollo?
+[15:56:29] [Server thread/INFO]: <Alfajorcito> si
+[15:56:34] [Server thread/INFO]: <Alfajorcito> pq un zombi spawneo montado
+[15:56:38] [Server thread/INFO]: <PepeRyddle> rico
+[15:56:41] [Server thread/INFO]: <Alfajorcito> y despawneo el zombi dsps de un rato
+[15:56:43] [Server thread/INFO]: <PepeRyddle> cba
+[15:56:49] [Server thread/INFO]: <PepeRyddle> me ayudas a matar?
+[15:56:49] [Server thread/INFO]: <PepeRyddle> a estos?
+[15:57:41] [Server thread/INFO]: <Alfajorcito> yo ise una caja de piedra en el nether
+[15:57:51] [Server thread/INFO]: <Alfajorcito> quiero q pongan el portal adentro de la caja de piedra asi llevo el pollo
+[15:57:59] [Server thread/INFO]: <Alfajorcito> sin q me ataquen
+[15:58:40] [Server thread/INFO]: <Alfajorcito> AHRE
+[15:59:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[16:00:32] [Server thread/INFO]: PepeRyddle was slain by Zombie Pigman
+[16:01:30] [Server thread/INFO]: PepeRyddle was slain by Zombie Pigman
+[16:01:46] [Server thread/INFO]: PepeRyddle was slain by Zombie Pigman
+[16:02:04] [Server thread/INFO]: PepeRyddle was slain by Zombie Pigman
+[16:03:09] [Server thread/INFO]: MAURIJAJAJA was slain by Zombie Pigman
+[16:04:47] [Server thread/INFO]: MAURIJAJAJA was slain by Zombie Pigman
+[16:04:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5669ms or 113 ticks behind
+[16:04:53] [Server thread/WARN]: MAURIJAJAJA moved too quickly! -3.0919606256150436,0.0,-51.18444209516748
+[16:04:53] [Server thread/WARN]: cbajas moved too quickly! -7.683546720130929,0.6170008964847113,-6.6794425126441865
+[16:05:08] [Server thread/WARN]: Alfajorcito moved too quickly! -0.12384650422084054,-10.811596629254797,-0.640261062938194
+[16:05:12] [Server thread/WARN]: Alfajorcito moved too quickly! 0.0,-18.891180689374167,0.0
+[16:05:12] [Server thread/INFO]: Alfajorcito fell out of the world
+[16:05:13] [Server thread/WARN]: Alfajorcito moved too quickly! 0.0,-21.69247010312914,0.0
+[16:12:21] [Server thread/INFO]: cbajas has made the advancement [We Need to Go Deeper]
+[16:14:13] [Server thread/INFO]: [Server] eskere dijo el duki
+[16:14:17] [Server thread/INFO]: <Alfajorcito> x'DDDDD
+[16:14:18] [Server thread/INFO]: [Server] ya me desocupe
+[16:14:21] [Server thread/INFO]: [Server] sale
+[16:15:38] [Server thread/INFO]: vijote[/192.168.0.112:52332] logged in with entity id 94984 at (3.307426935538775, 60.875, 0.9875497302135064)
+[16:15:38] [Server thread/INFO]: vijote joined the game
+[16:16:09] [Server thread/INFO]: <vijote> y que tal va esa produccion
+[16:16:36] [Server thread/INFO]: <Alfajorcito> bigote
+[16:16:37] [Server thread/INFO]: <Alfajorcito> mira el nether
+[16:16:41] [Server thread/INFO]: <cbajas> xd
+[16:16:45] [Server thread/INFO]: <Alfajorcito> si queres traumarte
+[16:17:52] [Server thread/WARN]: cbajas moved too quickly! -0.23413348741708528,-10.038049907596026,0.49978878793982773
+[16:17:53] [Server thread/WARN]: cbajas moved too quickly! 0.0,-10.342366735053567,0.0
+[16:17:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
+[16:18:00] [Server thread/WARN]: cbajas moved too quickly! 0.029216901757759928,-10.856489120741141,0.07622406705529983
+[16:18:01] [Server thread/WARN]: cbajas moved too quickly! 0.0,-11.213403912871312,0.0
+[16:18:04] [Server thread/WARN]: cbajas moved too quickly! 0.0,-11.846113595412158,0.0
+[16:18:05] [Server thread/INFO]: Alfajorcito was slain by Enderman
+[16:18:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
+[16:18:19] [Server thread/WARN]: cbajas moved too quickly! 0.0,-12.17912763709468,0.0
+[16:18:23] [Server thread/WARN]: cbajas moved too quickly! 0.0,-11.658559565233837,0.0
+[16:18:26] [Server thread/INFO]: cbajas fell out of the world
+[16:18:30] [Server thread/INFO]: Alfajorcito was slain by Zombie Pigman
+[16:19:04] [Server thread/INFO]: cbajas lost connection: Timed out
+[16:19:04] [Server thread/INFO]: cbajas left the game
+[16:19:23] [Server thread/INFO]: cbajas[/25.12.253.149:49698] logged in with entity id 97122 at (4.1688898514949315, -154.55344845657575, 37.94952126136264)
+[16:19:23] [Server thread/INFO]: cbajas joined the game
+[16:20:24] [Server thread/INFO]: cbajas lost connection: Timed out
+[16:20:24] [Server thread/INFO]: cbajas left the game
+[16:20:42] [Server thread/INFO]: <Alfajorcito> a
+[16:21:40] [Server thread/INFO]: Alfajorcito was slain by Zombie Pigman
+[16:22:23] [Server thread/INFO]: PepeRyddle was slain by Zombie Pigman
+[16:22:33] [Server thread/WARN]: PepeRyddle moved too quickly! 0.06591376558506368,-7.3447679954834015,7.176024916963055
+[16:22:57] [Server thread/INFO]: MAURIJAJAJA was slain by Zombie Pigman
+[16:23:10] [Server thread/WARN]: PepeRyddle moved too quickly! -9.44048246663819,-1.7287758923075174,-3.1789436488747214
+[16:24:17] [Server thread/INFO]: PepeRyddle lost connection: Disconnected
+[16:24:17] [Server thread/INFO]: PepeRyddle left the game
+[16:24:34] [Server thread/INFO]: Alfajorcito was slain by Zombie Pigman
+[16:24:42] [Server thread/INFO]: Alfajorcito was slain by Zombie Pigman
+[16:24:58] [Server thread/INFO]: Alfajorcito was slain by Zombie Pigman
+[16:25:38] [Server thread/INFO]: cbajas[/25.12.253.149:49711] logged in with entity id 101609 at (-2.5, 60.099998474121094, 1.5)
+[16:25:38] [Server thread/INFO]: cbajas joined the game
+[16:28:28] [Server thread/INFO]: <vijote> dame piedra cba
+[16:28:55] [Server thread/INFO]: <cbajas> 8 tengo
+[16:28:57] [Server thread/INFO]: <vijote> no me vas a dar la piedra?
+[16:28:58] [Server thread/INFO]: <cbajas> xd
+[16:28:59] [Server thread/INFO]: <vijote> 1 necesito
+[16:29:13] [Server thread/INFO]: <vijote> si no tengo ni para el pico
+[16:29:29] [Server thread/INFO]: cbajas lost connection: Disconnected
+[16:29:29] [Server thread/INFO]: cbajas left the game
+[16:36:04] [Server thread/INFO]: Alfajorcito was slain by Magma Cube
+[16:40:22] [Server thread/INFO]: Alfajorcito has completed the challenge [Return to Sender]
+[16:41:14] [Server thread/INFO]: cbajas[/25.12.253.149:49833] logged in with entity id 111629 at (-2.392579095013951, 60.5625, -0.4623026851001091)
+[16:41:14] [Server thread/INFO]: cbajas joined the game
+[16:41:46] [Server thread/INFO]: cbajas lost connection: Timed out
+[16:41:46] [Server thread/INFO]: cbajas left the game
+[16:43:05] [Server thread/INFO]: Alfajorcito was fireballed by Ghast
+[16:43:19] [Server thread/INFO]: cbajas[/25.12.253.149:49840] logged in with entity id 113004 at (-2.392579095013951, 60.5625, -0.4623026851001091)
+[16:43:19] [Server thread/INFO]: cbajas joined the game
+[16:44:52] [Server thread/INFO]: cbajas was slain by Zombie Pigman
+[16:45:42] [Server thread/INFO]: <cbajas> asd
+[16:45:50] [Server thread/INFO]: cbajas lost connection: Timed out
+[16:45:50] [Server thread/INFO]: cbajas left the game
+[16:46:02] [Server thread/INFO]: cbajas[/25.12.253.149:49844] logged in with entity id 114518 at (-6.1235161802845095, 62.0, 6.807702243535948)
+[16:46:02] [Server thread/INFO]: cbajas joined the game
+[16:47:38] [Server thread/INFO]: Alfajorcito fell out of the world
+[16:47:39] [Server thread/WARN]: Alfajorcito moved too quickly! 0.0,-18.858050461206858,0.0
+[16:52:23] [Server thread/WARN]: Alfajorcito moved too quickly! 0.0,-18.984043143103364,0.0
+[16:52:24] [Server thread/WARN]: Alfajorcito moved too quickly! 0.0,-21.143382068044247,0.0
+[16:52:24] [Server thread/INFO]: Alfajorcito fell out of the world
+[16:56:02] [Server thread/INFO]: cbajas lost connection: Timed out
+[16:56:02] [Server thread/INFO]: cbajas left the game
+[16:56:13] [Server thread/INFO]: cbajas[/25.12.253.149:50027] logged in with entity id 120404 at (-3.680088336577477, 62.0, 8.248516358555568)
+[16:56:13] [Server thread/INFO]: cbajas joined the game
+[16:56:41] [Server thread/INFO]: cbajas lost connection: Timed out
+[16:56:41] [Server thread/INFO]: cbajas left the game
+[16:57:04] [Server thread/INFO]: vijote lost connection: Disconnected
+[16:57:04] [Server thread/INFO]: vijote left the game
+[16:57:23] [Server thread/INFO]: cbajas[/25.12.253.149:50087] logged in with entity id 121144 at (-3.680088336577477, 62.0, 8.248516358555568)
+[16:57:23] [Server thread/INFO]: cbajas joined the game
+[16:57:42] [Server thread/WARN]: Alfajorcito moved too quickly! 0.0,-16.862288484464933,0.0
+[16:57:45] [Server thread/INFO]: Alfajorcito fell out of the world
+[16:57:45] [Server thread/WARN]: Alfajorcito moved too quickly! 0.0,-21.57832670307772,0.0
+[16:57:54] [Server thread/INFO]: cbajas lost connection: Timed out
+[16:57:54] [Server thread/INFO]: cbajas left the game
+[16:59:46] [Server thread/INFO]: vijote[/192.168.0.112:52535] logged in with entity id 122304 at (-5.300000011920932, 60.0, 5.699999988079066)
+[16:59:46] [Server thread/INFO]: vijote joined the game
+[16:59:47] [Server thread/INFO]: PepeRyddle[/25.2.27.15:56868] logged in with entity id 122310 at (1.7531024553826027, 60.0, -1.1130369678137129)
+[16:59:47] [Server thread/INFO]: PepeRyddle joined the game
+[16:59:59] [Server thread/INFO]: <PepeRyddle> para que es eso
+[17:00:04] [Server thread/INFO]: <Alfajorcito> metelo al agua
+[17:00:05] [Server thread/INFO]: <Alfajorcito> bobo
+[17:00:05] [Server thread/INFO]: PepeRyddle was slain by Zombie
+[17:00:08] [Server thread/INFO]: <Alfajorcito> q haces las cosas por tu cuenta
+[17:01:55] [Server thread/INFO]: cbajas[/25.12.253.149:50348] logged in with entity id 123765 at (-7.8171882934658825, 62.0, 7.134696918970926)
+[17:01:55] [Server thread/INFO]: cbajas joined the game
+[17:02:33] [Server thread/INFO]: PepeRyddle was fireballed by Ghast
+[17:02:37] [Server thread/INFO]: <Alfajorcito> pri
+[17:05:55] [Server thread/INFO]: PepeRyddle fell out of the world
+[17:06:14] [Server thread/INFO]: vijote lost connection: Disconnected
+[17:06:14] [Server thread/INFO]: vijote left the game
+[17:07:34] [Server thread/INFO]: <PepeRyddle> adioks
+[17:07:37] [Server thread/INFO]: <Alfajorcito> x'D
+[17:07:49] [Server thread/INFO]: PepeRyddle was slain by Drowned
+[17:08:26] [Server thread/INFO]: <PepeRyddle> oraico
+[17:08:28] [Server thread/INFO]: <PepeRyddle> oracio
+[17:08:49] [Server thread/WARN]: cbajas moved too quickly! 1.1318248852338617,-10.172304203141913,-0.3225890382225316
+[17:08:51] [Server thread/WARN]: cbajas moved too quickly! 0.19855073764528397,-10.867409983895083,-0.20256041016570236
+[17:08:55] [Server thread/INFO]: cbajas fell out of the world
+[17:08:57] [Server thread/INFO]: PepeRyddle was slain by Zombie Pigman
+[17:09:07] [Server thread/INFO]: <PepeRyddle> porque estan emprrados
+[17:09:31] [Server thread/INFO]: PepeRyddle was slain by Zombie Pigman
+[17:09:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
+[17:10:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3863ms or 77 ticks behind
+[17:10:19] [Server thread/INFO]: PepeRyddle was slain by Zombie Pigman
+[17:10:19] [Server thread/INFO]: MAURIJAJAJA was slain by Zombie Pigman
+[17:10:30] [Server thread/INFO]: MAURIJAJAJA was slain by Zombie Pigman
+[17:11:37] [Server thread/INFO]: PepeRyddle was slain by Zombie Pigman
+[17:11:57] [Server thread/INFO]: cbajas lost connection: Timed out
+[17:11:57] [Server thread/INFO]: cbajas left the game
+[17:12:44] [Server thread/WARN]: PepeRyddle moved too quickly! -9.171522033390897,-1.0,-3.9107482412869317
+[17:14:33] [Server thread/INFO]: Alfajorcito fell out of the world
+[17:14:56] [Server thread/INFO]: PepeRyddle fell out of the world
+[17:15:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2346ms or 46 ticks behind
+[17:15:39] [Server thread/INFO]: PepeRyddle was slain by Zombie Pigman
+[17:15:42] [Server thread/INFO]: PepeRyddle lost connection: Disconnected
+[17:15:42] [Server thread/INFO]: PepeRyddle left the game
+[17:15:48] [Server thread/INFO]: MAURIJAJAJA lost connection: Disconnected
+[17:15:48] [Server thread/INFO]: MAURIJAJAJA left the game
+[17:16:11] [Server thread/INFO]: Alfajorcito was slain by Zombie Pigman
+[17:16:30] [Server thread/INFO]: Alfajorcito was slain by Zombie Pigman
+[17:16:45] [Server thread/INFO]: Alfajorcito was slain by Zombie Pigman
+[17:17:01] [Server thread/WARN]: Alfajorcito moved too quickly! -0.16713630695517878,-15.476805479058017,-0.43704859302189547
+[17:17:03] [Server thread/INFO]: Alfajorcito fell out of the world
+[17:17:13] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
+[17:17:13] [Server thread/INFO]: Alfajorcito left the game
