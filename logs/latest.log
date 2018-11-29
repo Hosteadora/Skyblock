@@ -1,67 +1,106 @@
-[19:54:00] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:54:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:54:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:54:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:54:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:54:00] [main/INFO]: Loaded 0 recipes
-[19:54:00] [main/INFO]: Loaded 0 advancements
-[19:54:01] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[19:54:01] [Server thread/INFO]: Loading properties
-[19:54:01] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Controlador no válido
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_191]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_191]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_191]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_191]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_191]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_191]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_191]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_191]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_191]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_191]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_191]
-	at so$2.run(SourceFile:110) [server.jar:?]
-[19:54:01] [Server thread/INFO]: Default game type: SURVIVAL
-[19:54:01] [Server thread/INFO]: Generating keypair
-[19:54:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:54:01] [Server thread/INFO]: Using default channel type
-[19:54:01] [Server thread/INFO]: Preparing level "world"
-[19:54:01] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
-[19:54:01] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:54:02] [Server thread/INFO]: Loaded 524 recipes
-[19:54:02] [Server thread/INFO]: Loaded 571 advancements
-[19:54:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:54:06] [Server thread/INFO]: Preparing spawn area: 0%
-[19:54:06] [Server thread/INFO]: Preparing spawn area: 4%
-[19:54:06] [Server thread/INFO]: Preparing spawn area: 8%
-[19:54:07] [Server thread/INFO]: Preparing spawn area: 12%
-[19:54:07] [Server thread/INFO]: Preparing spawn area: 16%
-[19:54:07] [Server thread/INFO]: Preparing spawn area: 20%
-[19:54:07] [Server thread/INFO]: Preparing spawn area: 24%
-[19:54:07] [Server thread/INFO]: Preparing spawn area: 28%
-[19:54:08] [Server thread/INFO]: Preparing spawn area: 32%
-[19:54:08] [Server thread/INFO]: Preparing spawn area: 36%
-[19:54:08] [Server thread/INFO]: Preparing spawn area: 40%
-[19:54:08] [Server thread/INFO]: Preparing spawn area: 44%
-[19:54:08] [Server thread/INFO]: Preparing spawn area: 48%
-[19:54:09] [Server thread/INFO]: Preparing spawn area: 52%
-[19:54:09] [Server thread/INFO]: Preparing spawn area: 56%
-[19:54:09] [Server thread/INFO]: Preparing spawn area: 60%
-[19:54:09] [Server thread/INFO]: Preparing spawn area: 64%
-[19:54:09] [Server thread/INFO]: Preparing spawn area: 68%
-[19:54:10] [Server thread/INFO]: Preparing spawn area: 72%
-[19:54:10] [Server thread/INFO]: Preparing spawn area: 76%
-[19:54:10] [Server thread/INFO]: Preparing spawn area: 80%
-[19:54:10] [Server thread/INFO]: Preparing spawn area: 84%
-[19:54:11] [Server thread/INFO]: Preparing spawn area: 88%
-[19:54:11] [Server thread/INFO]: Preparing spawn area: 92%
-[19:54:11] [Server thread/INFO]: Preparing spawn area: 96%
-[19:54:11] [Server thread/INFO]: Preparing spawn area: 100%
-[19:54:11] [Server thread/INFO]: Time elapsed: 6693 ms
-[19:54:11] [Server thread/INFO]: Done (10.270s)! For help, type "help"
-[19:54:15] [Server thread/INFO]: Stopping server
-[19:54:15] [Server thread/INFO]: Saving players
-[19:54:15] [Server thread/INFO]: Saving worlds
-[19:54:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[19:54:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:54:15] [Server Shutdown Thread/INFO]: Stopping server
+[00:00:09] [Server thread/INFO]: Armando was pricked to death
+[00:00:52] [Server thread/INFO]: Alfajorcito tried to swim in lava
+[00:01:19] [Server thread/INFO]: vijote has made the advancement [Fishy Business]
+[00:03:27] [Server thread/INFO]: Alfajorcito has made the advancement [We Need to Go Deeper]
+[00:03:30] [Server thread/INFO]: Alfajorcito burned to death
+[00:03:32] [Server thread/INFO]: Armando has made the advancement [We Need to Go Deeper]
+[00:04:07] [Server thread/INFO]: Alfajorcito fell out of the world
+[00:04:08] [Server thread/WARN]: Alfajorcito moved too quickly! 0.0,-21.79842356548096,0.0
+[00:04:16] [Server thread/INFO]: vijote has made the advancement [We Need to Go Deeper]
+[00:04:43] [Server thread/INFO]: MAURIJAJAJA has made the advancement [We Need to Go Deeper]
+[00:08:26] [Server thread/INFO]: Alfajorcito tried to swim in lava
+[00:09:18] [Server thread/INFO]: Alfajorcito was pricked to death
+[00:09:31] [Server thread/INFO]: Armando has made the advancement [Fishy Business]
+[00:11:22] [Server thread/INFO]: Alfajorcito fell from a high place
+[00:19:39] [Server thread/INFO]: Armando hit the ground too hard
+[00:21:00] [Server thread/INFO]: Alfajorcito was pricked to death
+[00:21:07] [Server thread/WARN]: Armando moved too quickly! 0.06644601615739987,-12.487512062367097,0.05802959271597152
+[00:21:11] [Server thread/INFO]: Armando fell out of the world
+[00:22:43] [Server thread/INFO]: Armando lost connection: Disconnected
+[00:22:43] [Server thread/INFO]: Armando left the game
+[00:22:46] [Server thread/INFO]: Armando[/25.17.209.121:49606] logged in with entity id 2460 at (0.5, 70.0, 2.372747522242487)
+[00:22:46] [Server thread/INFO]: Armando joined the game
+[00:24:02] [Server thread/INFO]: vijote has made the advancement [Monster Hunter]
+[00:24:34] [Server thread/INFO]: vijote has made the advancement [Getting an Upgrade]
+[00:27:06] [Server thread/INFO]: Alfajorcito fell out of the world
+[00:28:27] [Server thread/INFO]: Alfajorcito fell out of the world
+[00:28:29] [Server thread/WARN]: Fetching addPacket for removed entity
+[00:30:30] [Server thread/INFO]: Alfajorcito fell out of the world
+[00:35:10] [Server thread/INFO]: Alfajorcito tried to swim in lava
+[00:37:10] [Server thread/INFO]: <Alfajorcito> preciated
+[00:38:56] [Server thread/INFO]: Alfajorcito fell out of the world
+[00:40:16] [Server thread/INFO]: MAURIJAJAJA has made the advancement [A Seedy Place]
+[00:44:06] [Server thread/INFO]: Armando lost connection: Disconnected
+[00:44:06] [Server thread/INFO]: Armando left the game
+[00:44:33] [Server thread/INFO]: Alfajorcito was pricked to death
+[00:45:36] [Server thread/INFO]: Alfajorcito tried to swim in lava
+[00:45:55] [Server thread/INFO]: Alfajorcito tried to swim in lava
+[00:46:38] [Server thread/INFO]: Alfajorcito was pricked to death
+[00:51:18] [Server thread/INFO]: Alfajorcito fell from a high place
+[00:54:39] [Server thread/INFO]: Alfajorcito was pricked to death
+[00:55:03] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
+[00:55:03] [Server thread/INFO]: Alfajorcito left the game
+[01:01:53] [Server thread/INFO]: vijote fell from a high place
+[01:18:07] [Server thread/INFO]: vijote fell out of the world
+[01:20:33] [Server thread/INFO]: MAURIJAJAJA has made the advancement [Sweet Dreams]
+[01:21:00] [Server thread/INFO]: MAURIJAJAJA was shot by Skeleton
+[01:21:38] [Server thread/INFO]: vijote was slain by Phantom
+[01:22:56] [Server thread/INFO]: vijote has made the advancement [Sweet Dreams]
+[01:23:09] [Server thread/INFO]: <vijote> zZZzzzzZZZZzz
+[01:37:29] [Server thread/INFO]: PepeRyddle[/25.2.27.15:49382] logged in with entity id 13025 at (-0.5, 62.0, 2.5)
+[01:37:29] [Server thread/INFO]: PepeRyddle joined the game
+[01:37:36] [Server thread/INFO]: <PepeRyddle> alo
+[01:37:47] [Server thread/INFO]: PepeRyddle has made the advancement [Stone Age]
+[01:37:57] [Server thread/INFO]: PepeRyddle has made the advancement [Getting an Upgrade]
+[01:40:16] [Server thread/INFO]: PepeRyddle has made the advancement [Monster Hunter]
+[01:40:20] [Server thread/INFO]: <PepeRyddle> tengo un disco
+[01:40:53] [Server thread/INFO]: MAURIJAJAJA has made the advancement [Take Aim]
+[01:44:48] [Server thread/INFO]: PepeRyddle was shot by Skeleton
+[01:46:24] [Server thread/INFO]: PepeRyddle was blown up by Creeper
+[01:47:38] [Server thread/INFO]: MAURIJAJAJA was blown up by Creeper
+[01:52:39] [Server thread/INFO]: Set the weather to rain
+[01:53:11] [Server thread/INFO]: PepeRyddle was slain by Enderman
+[01:54:48] [Server thread/INFO]: PepeRyddle was slain by Enderman
+[01:54:50] [Server thread/WARN]: Fetching addPacket for removed entity
+[01:55:12] [Server thread/INFO]: PepeRyddle was slain by Enderman
+[02:00:57] [Server thread/INFO]: PepeRyddle has made the advancement [Sweet Dreams]
+[02:03:45] [Server thread/INFO]: MAURIJAJAJA didn't want to live in the same world as Spider
+[02:05:03] [Server thread/INFO]: PepeRyddle fell from a high place
+[02:05:25] [Server thread/INFO]: PepeRyddle fell from a high place
+[02:05:38] [Server thread/INFO]: PepeRyddle fell from a high place
+[02:05:47] [Server thread/INFO]: MAURIJAJAJA lost connection: Disconnected
+[02:05:47] [Server thread/INFO]: MAURIJAJAJA left the game
+[02:07:40] [Server thread/INFO]: PepeRyddle fell from a high place
+[02:10:39] [Server thread/INFO]: <vijote> aber gaston
+[02:10:43] [Server thread/INFO]: <vijote> como q no cae nada XD
+[02:11:04] [Server thread/INFO]: <PepeRyddle> hay que hacer muchas cosas
+[02:11:15] [Server thread/INFO]: <PepeRyddle> pero caen
+[02:13:52] [Server thread/INFO]: <vijote> lol
+[02:13:54] [Server thread/INFO]: <vijote> aguita
+[02:13:58] [Server thread/INFO]: <PepeRyddle> fue sinquerer :c
+[02:14:04] [Server thread/INFO]: <vijote> xd
+[02:16:44] [Server thread/INFO]: PepeRyddle fell from a high place
+[02:17:45] [Server thread/INFO]: <PepeRyddle> ya volvieron los hijos de su madre
+[02:17:54] [Server thread/INFO]: <vijote> los phantom?
+[02:17:57] [Server thread/INFO]: <PepeRyddle> no
+[02:17:59] [Server thread/INFO]: <PepeRyddle> los bichos
+[02:18:03] [Server thread/INFO]: <vijote> vamo adormi
+[02:18:57] [Server thread/INFO]: PepeRyddle was slain by Zombie
+[02:22:04] [Server thread/INFO]: PepeRyddle fell from a high place
+[02:23:47] [Server thread/INFO]: PepeRyddle fell from a high place
+[02:23:50] [Server thread/INFO]: <vijote> lol
+[02:24:55] [Server thread/INFO]: PepeRyddle fell from a high place
+[02:25:07] [Server thread/INFO]: <PepeRyddle> ahora quizas caigan mas
+[02:25:49] [Server thread/INFO]: <PepeRyddle> bueno
+[02:25:50] [Server thread/INFO]: <PepeRyddle> yo me voy
+[02:25:55] [Server thread/INFO]: <PepeRyddle> adios
+[02:26:00] [Server thread/INFO]: <vijote> adios pues
+[02:26:04] [Server thread/INFO]: PepeRyddle lost connection: Disconnected
+[02:26:04] [Server thread/INFO]: PepeRyddle left the game
+[02:30:22] [Server thread/WARN]: vijote was kicked for floating too long!
+[02:30:22] [Server thread/INFO]: vijote lost connection: Flying is not enabled on this server
+[02:30:22] [Server thread/INFO]: vijote left the game
+[02:30:35] [Server thread/INFO]: vijote[/192.168.0.112:58835] logged in with entity id 33092 at (-1.5, 60.099998474121094, 1.5)
+[02:30:35] [Server thread/INFO]: vijote joined the game
+[02:31:58] [Server thread/INFO]: vijote lost connection: Disconnected
+[02:31:58] [Server thread/INFO]: vijote left the game
