@@ -1,60 +1,55 @@
-[03:39:06] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:39:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:39:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:39:06] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:39:06] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:39:06] [main/INFO]: Loaded 0 recipes
-[03:39:06] [main/INFO]: Loaded 0 advancements
-[03:39:06] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[03:39:06] [Server thread/INFO]: Loading properties
-[03:39:06] [Server thread/INFO]: Default game type: SURVIVAL
-[03:39:06] [Server thread/INFO]: Generating keypair
-[03:39:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:39:06] [Server thread/INFO]: Using default channel type
-[03:39:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:39:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:39:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:39:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:39:06] [Server thread/INFO]: Preparing level "SkyBlock2.1"
-[03:39:06] [Server thread/INFO]: Reloading ResourceManager: Default
-[03:39:07] [Server thread/INFO]: Loaded 524 recipes
-[03:39:08] [Server thread/INFO]: Loaded 571 advancements
-[03:39:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 4%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 8%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 12%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 16%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 20%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 24%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 28%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 32%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 36%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 40%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 44%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 48%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 52%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 56%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 60%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 64%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 68%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 72%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 76%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 80%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 84%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 88%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 92%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 96%
-[03:39:08] [Server thread/INFO]: Preparing spawn area: 100%
-[03:39:08] [Server thread/INFO]: Time elapsed: 253 ms
-[03:39:08] [Server thread/INFO]: Done (1.381s)! For help, type "help"
-[03:40:44] [Server thread/INFO]: cbajas[/25.12.253.149:50585] logged in with entity id 60 at (-0.5, 60.0, 2.5)
-[03:40:44] [Server thread/INFO]: cbajas joined the game
-[03:41:19] [Server thread/INFO]: vijote[/192.168.0.112:59736] logged in with entity id 404 at (-5.891485217100744, 62.0, 4.649911674575556)
-[03:41:19] [Server thread/INFO]: vijote joined the game
-[03:41:40] [Server thread/INFO]: cbajas has made the advancement [Getting an Upgrade]
-[03:42:27] [Server thread/INFO]: cbajas has made the advancement [Stone Age]
-[03:45:01] [Server thread/INFO]: cbajas fell out of the world
-[03:45:46] [Server thread/INFO]: vijote lost connection: Disconnected
-[03:45:46] [Server thread/INFO]: vijote left the game
-[03:45:56] [Server thread/INFO]: cbajas lost connection: Disconnected
-[03:45:56] [Server thread/INFO]: cbajas left the game
+[10:55:31] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:55:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:55:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:55:31] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:55:31] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:55:31] [main/INFO]: Loaded 0 recipes
+[10:55:31] [main/INFO]: Loaded 0 advancements
+[10:55:31] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[10:55:31] [Server thread/INFO]: Loading properties
+[10:55:31] [Server thread/INFO]: Default game type: SURVIVAL
+[10:55:31] [Server thread/INFO]: Generating keypair
+[10:55:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:55:31] [Server thread/INFO]: Using default channel type
+[10:55:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:55:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:55:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:55:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:55:32] [Server thread/INFO]: Preparing level "SkyBlock2.1"
+[10:55:32] [Server thread/INFO]: Reloading ResourceManager: Default
+[10:55:32] [Server thread/INFO]: Loaded 524 recipes
+[10:55:33] [Server thread/INFO]: Loaded 571 advancements
+[10:55:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 4%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 8%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 12%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 16%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 20%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 24%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 28%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 32%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 36%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 40%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 44%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 48%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 52%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 56%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 60%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 64%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 68%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 72%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 76%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 80%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 84%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 88%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 92%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 96%
+[10:55:33] [Server thread/INFO]: Preparing spawn area: 100%
+[10:55:33] [Server thread/INFO]: Time elapsed: 293 ms
+[10:55:33] [Server thread/INFO]: Done (1.336s)! For help, type "help"
+[10:59:41] [Server thread/INFO]: vijote[/192.168.0.112:50150] logged in with entity id 34 at (5.9775160257368185, 61.0, 0.30000001192092896)
+[10:59:41] [Server thread/INFO]: vijote joined the game
+[11:12:42] [Server thread/INFO]: vijote has made the advancement [A Seedy Place]
+[11:34:26] [Server thread/INFO]: vijote was shot by Skeleton
+[11:37:08] [Server thread/INFO]: vijote lost connection: Disconnected
+[11:37:08] [Server thread/INFO]: vijote left the game
